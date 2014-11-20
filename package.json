@@ -1,0 +1,16 @@
+{
+  "name": "class-set",
+  "description": "classSet is a Javascript library to create CSS class strings out of arbitrary parameters.",
+  "author": "Awnist <hi@awnist.com> (http://awnist.com)",
+  "version": "0.0.1",
+  "main": "./lib/classSet",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:awnist/classSet.git"
+  },
+  "license": "MIT",
+  "keywords": ["react", "classSet"],
+  "scripts": {
+    "prepublish": "coffee -o lib/ -c src/"
+  }
+}
