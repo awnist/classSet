@@ -1,6 +1,6 @@
-## What is "classSet"?
+## What is "class-set"?
 
-classSet is a Javascript library to create CSS class strings out of arbitrary parameters.
+class-set is a Javascript library to create CSS class strings out of arbitrary parameters.
 
 This is a conceptual extension of [React's classSet](http://facebook.github.io/react/docs/class-name-manipulation.html).
 
@@ -21,4 +21,4 @@ via npm:
 
     $ npm install class-set
 
-classSet is licensed under [MIT](http://opensource.org/licenses/MIT).
+class-set is licensed under [MIT](http://opensource.org/licenses/MIT).
